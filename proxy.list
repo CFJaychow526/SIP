@@ -9,8 +9,10 @@ DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-KEYWORD,quora
 DOMAIN-SUFFIX,kylc.com
-
-
+DOMAIN-KEYWORD,v2ex
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-KEYWORD,rsshub
+DOMAIN-SUFFIX,rssforever.com
 
 
 
