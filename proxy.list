@@ -14,7 +14,9 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-KEYWORD,rsshub
 DOMAIN-SUFFIX,rssforever.com
 DOMAIN-SUFFIX,pump.fun
-
+DOMAIN,beta.apple.com
+DOMAIN,testflight.apple.com
+DOMAIN-KEYWORD,testflight
 
 
 
