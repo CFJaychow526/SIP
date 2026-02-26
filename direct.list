@@ -2,6 +2,4 @@ DOMAIN,www.abchina.com.cn
 DOMAIN-KEYWORD,cc98
 DOMAIN-SUFFIX,zju.edu.cn
 DOMAIN-KEYWORD,aloischumpeter
-DOMAIN-KEYWORD,dpdns
-DOMAIN-KEYWORD,yun
-DOMAIN,6.emby.yun
+DOMAIN-SUFFIX,emby.yun
