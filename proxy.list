@@ -52,8 +52,6 @@ DOMAIN-SUFFIX,media.emby.pro
 
 DOMAIN-KEYWORD,ichinosekotomi
 
-DOMAIN-SUFFIX,snowstorm.cc.cd
-
 DOMAIN-SUFFIX,test.28.al
 
 DOMAIN-KEYWORD,cn2gias
@@ -74,6 +72,8 @@ DOMAIN-SUFFIX,inemby.us.ci
 DOMAIN-KEYWORD,wenjian
 
 DOMAIN-KEYWORD,meowfly
+
+DOMAIN-SUFFIX,emby.my
 
 DOMAIN-KEYWORD,ash
 
@@ -114,3 +114,5 @@ DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,yuanshen.help
 
 DOMAIN-SUFFIX,gxwplay.com
+
+DOMAIN-SUFFIX,snowstorm.cc.cd
