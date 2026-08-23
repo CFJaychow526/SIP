@@ -6,8 +6,22 @@ DOMAIN,www.abchina.com.cn
 DOMAIN-KEYWORD,cc98
 DOMAIN-SUFFIX,zju.edu.cn
 
+DOMAIN-KEYWORD,chinamobile
 DOMAIN-KEYWORD,cmecloud
 DOMAIN-SUFFIX,139.com
+DOMAIN-SUFFIX,10086.cn
+
+DOMAIN-SUFFIX,telecom.com.cn
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,ctyun.cn
+DOMAIN-SUFFIX,21cn.com
+DOMAIN-KEYWORD,tianyiyun
+DOMAIN-KEYWORD,cloud189
+
+DOMAIN-SUFFIX,wo.cn
+DOMAIN-SUFFIX,unicom.cn
+DOMAIN-SUFFIX,unicompayment.com
+
 
 
 
