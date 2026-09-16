@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
 
-DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,mask.apple-dns.net
 DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask-api.fe2.apple-dns.net
 DOMAIN-SUFFIX,apple-relay.akamaized.net
