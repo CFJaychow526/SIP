@@ -29,7 +29,9 @@ DOMAIN-SUFFIX,guangyacdn.com
 
 
 
-DOMAIN-SUFFIX,wedg.top
+DOMAIN,cf.wedg.top
+DOMAIN,a.wedg.top
+DOMAIN,tt.wedg.top:443
 
 DOMAIN-KEYWORD,yusen
 
